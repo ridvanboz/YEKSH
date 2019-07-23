@@ -14,4 +14,5 @@ YEK OKulları Soru Havuzu
 
 
 |Örn: Matematik hocası Fizik bölümü sorularını göremez ya da o kısımlara dosya upload edemez|
+
 |İlerleyen zamanlarda derste kullanılan sunum ve başka dosyaların eklenme ihtimali var|
